@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tik Tak Toe</string>
+    <string name="heading">Designed by Amish</string>
+    <string name="grid">Our main grid</string>
+</resources>
